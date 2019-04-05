@@ -11,7 +11,7 @@
                <div class="col-md-12 col-sm-6 col-xs-12">
                   <div class="col-md-6 col-xs-12">
                      <div class="intern-block border-blue">
-                        <img src="https://res.cloudinary.com/adimchi/image/upload/v1554398208/adimchi_pic.png" alt="Iwuanyanwu Adimchinobi">
+                        <img src="https://res.cloudinary.com/adimchi/image/upload/v1554498665/adimchi_pic_1.png" alt="Iwuanyanwu Adimchinobi">
                         <h6>IWUANYANWU ADIMCHINOBI</h6>
                         <p>Front-end Engineer</p>
                         <ul class="list">
